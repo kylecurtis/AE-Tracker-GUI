@@ -1,0 +1,20 @@
+1,Portable Generator,Power,10/01/2026,10/31/2026,Operational,2
+2,Digital Multimeter,Electric,10/10/2026,10/24/2026,Due Soon,3
+3,Air Compressor,Facility,09/17/2026,12/16/2026,Operational,1
+4,Hydraulic Lift Table,Material,09/22/2026,10/22/2026,Service Required,3
+5,Emergency Power Supply,Power,09/03/2026,10/10/2026,Out of Service,3
+6,Battery Charger,Electric,08/15/2026,11/15/2026,Operational,3
+7,Forklift,Vehicle,07/01/2026,01/01/2027,Operational,2
+8,Floor Jack,Material,09/30/2026,10/30/2026,Due Soon,3
+9,Pressure Washer,Facility,06/01/2026,12/01/2026,Operational,1
+10,Drill Press,Tools,10/05/2026,11/05/2026,Operational,2
+11,Welding Machine,Power,09/01/2026,10/15/2026,Service Required,3
+12,Torque Wrench Set,Tools,04/01/2026,04/01/2027,Operational,1
+13,Extension Ladder,Safety,08/01/2026,11/01/2026,Due Soon,3
+14,Fire Extinguisher,Safety,09/15/2026,10/29/2026,Operational,3
+15,Shop Vacuum,Facility,03/10/2026,03/10/2027,Operational,2
+16,Tool Cart,Material,05/01/2026,10/01/2026,Out of Service,2
+17,Bench Grinder,Tools,07/20/2026,01/20/2027,Operational,2
+18,Work Light,Electric,10/12/2026,01/12/2027,Operational,1
+19,Tire Inflator,Facility,09/25/2026,10/25/2026,Due Soon,2
+20,Hand Truck,Material,08/10/2026,11/10/2026,Operational,3
